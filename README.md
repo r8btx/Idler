@@ -5,7 +5,7 @@ However, there are times when you want to leave some processes working in the ba
 
 ## Getting Started
 
-Download or copy desired scripts and execute them. Some may require admin/root privileges to function properly.
+```pip install pypiwin32```
 
 ## Acknowledgments
 
